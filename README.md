@@ -85,11 +85,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 Image:
 ![Project Screenshot](https://github.com/user-attachments/assets/cc646de0-154e-458b-a8da-3385aa9b1484)
-Demo:
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/73d4b80e-8ef4-46dd-9de1-c1dfee7078f6" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+## Live Demo
+
+Check out the deployed version of the project here: [To-Do App Live](https://to-do-app-gray-rho-38.vercel.app/)
+
 
 
 
