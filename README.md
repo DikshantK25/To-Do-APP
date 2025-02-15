@@ -87,6 +87,7 @@ Image:
 ![Project Screenshot](https://github.com/user-attachments/assets/cc646de0-154e-458b-a8da-3385aa9b1484)
 Demo:
 [![Watch the demo]([https://github.com/user-attachments/assets/8e8ef71e-caee-4c2f-9c04-8d5643122c9e)]
+[![Watch the demo]([https://github.com/user-attachments/assets/thumbnail.png](https://github.com/user-attachments/assets/8e8ef71e-caee-4c2f-9c04-8d5643122c9e))](https://www.youtube.com/watch?v=your_video_id
 
 
 
