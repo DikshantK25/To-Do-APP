@@ -1,6 +1,3 @@
-Below is a sample `README.md` file for your To-Do List App project:
-
----
 
 # To-Do List App
 
@@ -86,5 +83,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the developers of the tools and libraries used in this project.
 
 ---
-
-Simply copy the above content into your `README.md` file and customize it as needed. Enjoy building your To-Do List App!
