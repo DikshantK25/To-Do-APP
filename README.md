@@ -86,8 +86,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Image:
 ![Project Screenshot](https://github.com/user-attachments/assets/cc646de0-154e-458b-a8da-3385aa9b1484)
 Demo:
-[![Watch the demo]([https://github.com/user-attachments/assets/8e8ef71e-caee-4c2f-9c04-8d5643122c9e)]
-[![Watch the demo]([https://github.com/user-attachments/assets/thumbnail.png](https://github.com/user-attachments/assets/8e8ef71e-caee-4c2f-9c04-8d5643122c9e))](https://www.youtube.com/watch?v=your_video_id
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/73d4b80e-8ef4-46dd-9de1-c1dfee7078f6" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
